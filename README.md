@@ -12,4 +12,6 @@ Notes, code snippets, HowTo's, etc.
 * [Bugger](bugger.md)
 * [Wrangler](wrangler.md)
 
+# Conferences
 
+* [Maker Faire](maker_faire.md)
